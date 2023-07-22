@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "Example University",
+      "image": "https://example.com/university-image.jpg",
+      "admissionDate": "2023-09-01",
+      "events": [
+        "Orientation Day",
+        "Alumni Meet",
+        "Annual Sports Meet"
+      ],
+      "researchHistory": 245,
+      "sports": [
+        "Football",
+        "Basketball",
+        "Swimming",
+        "Tennis"
+      ],
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor nulla eu mauris facilisis, ac gravida urna posuere.",
+      "reviews": [
+        {
+          "id": 101,
+          "userId": 1,
+          "rating": 4.5,
+          "comment": "Great college with excellent faculty and facilities."
+        },
+        {
+          "id": 102,
+          "userId": 2,
+          "rating": 5.0,
+          "comment": "I had an amazing experience at this university."
+        }
+      ]
+    }
+  ]

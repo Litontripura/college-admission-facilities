@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.error{
+    border-radius: 50px;
+background: #043254;
+box-shadow:  6px 6px 12px #0366b1,
+             -6px -6px 12px #EA580C;
+}
